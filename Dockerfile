@@ -170,5 +170,5 @@ LABEL \
       org.label-schema.name="firefox" \
       org.label-schema.description="Docker container for Firefox" \
       org.label-schema.version="$DOCKER_IMAGE_VERSION" \
-      org.label-schema.vcs-url="https://github.com/jlesage/docker-firefox" \
+      org.label-schema.vcs-url="https://github.com/Dr1ve/docker-firefox" \
       org.label-schema.schema-version="1.0"
